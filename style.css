@@ -9,7 +9,7 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-image: url('../images/tk.jpg'); /* Background image for the page */
+    background-image: url('./tk.jpg'); /* Background image for the page */
 }
 
 /* Header section styling */
